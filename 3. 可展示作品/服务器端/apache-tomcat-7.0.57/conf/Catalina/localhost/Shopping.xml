@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="C:\apache-tomcat-7.0.57\wtpwebapps\Shopping" path="/Shopping" reloadable="true" source="org.eclipse.jst.jee.server:Shopping"/>
